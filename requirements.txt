@@ -13,7 +13,7 @@ colorama==0.4.6
 comtypes==1.4.7
 contourpy==1.3.0
 cycler==0.12.1
-dlib @ file:///F:/ML%20Projts/dlib-19.24.99-cp312-cp312-win_amd64.whl#sha256=20c62e606ca4c9961305f7be3d03990380d3e6c17f8d27798996e97a73271862
+dlib==19.24.0
 face-recognition==1.3.0
 face_recognition_models==0.3.0
 filelock==3.16.1
