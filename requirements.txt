@@ -90,10 +90,9 @@ sympy==1.13.3
 tenacity==8.5.0
 threadpoolctl==3.5.0
 toml==0.10.2 
--f https://download.pytorch.org/whl/cpu 
-torch==2.1.2+cpu 
-torchaudio==2.1.2+cpu 
-torchvision==0.19.1+cpu 
+torch==2.1.2
+torchaudio==2.1.2 
+torchvision==0.19.1 
 tornado==6.4.1 
 tqdm==4.66.5 
 typing_extensions==4.12.2 
