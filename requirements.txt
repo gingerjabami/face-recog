@@ -2,6 +2,7 @@ absl-py==2.1.0
 altair==5.4.1
 attrs==24.2.0
 blinker==1.8.2
+build-essential
 cachetools==5.5.0
 caer==2.0.8
 certifi==2024.8.30
